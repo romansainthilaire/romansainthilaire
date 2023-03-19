@@ -4,15 +4,25 @@
   
 <br>
 
-Je suis **Développeur Python Web**
+Je suis **Développeur Python Web**. Sur mes projets j'utilise principalement :
   
 <br>
 
-Sur mes projets, j'utilise :
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="50"/>
 </a>
+<br><br> 
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" height="40"/>
+</a>
+<br><br>
+<a href="https://www.django-rest-framework.org/" target="_blank">
+  <img src="https://www.django-rest-framework.org/img/logo.png" alt="djangorest" height="80"/>
+</a>
+  
+<br><br>
+
+→ N'hésite pas à me contacter sur <a href="https://www.linkedin.com/in/roman-saint-hilaire-209341b7/"  target="_blank"> LinkedIn</a> ←
 
 </div>
 
