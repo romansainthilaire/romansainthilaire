@@ -1,8 +1,8 @@
-Bonjour 🙂
+Bonjour et bienvenue sur mon profil GitHub 🙂
 
-Je suis Roman Saint-Hilaire, un développeur Web qui apprécie particulièrement **Python** et **Django**.
+Je suis Roman Saint-Hilaire, développeur Web.
 
-<br>
+Sur mes projets, j'utilise principalement les technologies suivantes :
 
-Sur mes projets, j'utilise :
+
 
