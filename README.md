@@ -34,6 +34,16 @@ Je suis **Développeur Python Web**. Sur mes projets j'utilise :
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="flask" height="60"/>
 </a>
 
+<br><br>
+
+<a href="https://docs.pytest.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" height="100"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" height="80"/>
+</a>
+
 
 
 
