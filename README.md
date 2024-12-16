@@ -38,6 +38,6 @@ Je suis **Développeur Python Web**. Sur mes projets j'utilise :
 
 <br><br>
 
-→ N'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/roman-saint-hilaire-209341b7/"  target="_blank"> LinkedIn</a> ←
+👉 N'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/roman-saint-hilaire-209341b7/"  target="_blank"> LinkedIn</a>
 
 </div>
