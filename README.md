@@ -22,10 +22,6 @@ Je suis **Développeur Python Web**. Sur mes projets j'utilise :
 
 <br><br>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png" alt="flask" height="60"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" height="50"/>
 </a>
